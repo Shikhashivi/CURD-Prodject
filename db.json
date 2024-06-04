@@ -1,0 +1,52 @@
+{
+    "users": [
+       
+        {
+            "id": "5",
+            "name": "Rushali",
+            "username": "rushaliHarsh",
+            "email": "rushali@gmail.com",
+            "phone": 9896565656,
+            "website": "conrad.com"
+        },
+        {
+            "id": "6",
+            "name": "Harsh",
+            "username": "harshrushali",
+            "email": "harsh@gmail.com",
+            "phone": 5656565656,
+            "website": "conrad.com"
+        },
+        {
+            "id": "7",
+            "name": "Deekila",
+            "username": "deekilaaniket",
+            "email": "deekila@gmail.com",
+            "phone": 5656565656,
+            "website": "conrad.com"
+        },
+        {
+            "id": "8",
+            "name": "Aniket",
+            "username": "aniketdeekila",
+            "email": "aniket@gmail.com",
+            "phone": 5656565656,
+            "website": "conrad.com"
+        },
+        {
+            "id": "9",
+            "name": "Khanak",
+            "email": "khanak@gmail.com"
+        },
+        {
+            "id": "11",
+            "name": "Ameha",
+            "email": "ameha@gmail.com"
+        },
+        {
+            "id": "12",
+            "name": "Khanak",
+            "email": "khanak@gmail.com"
+        }
+    ]
+}
